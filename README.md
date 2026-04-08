@@ -5,6 +5,10 @@ This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://git
 
 ---
 
+# ⭐ Star this project, fork and use!
+
+---
+
 ## ⚠️ Warning Before You Begin
 
 - Before starting the bot, please make sure that the Offline Mode (Pirated/Not Original) option in the settings section of your Aternos server is active.
